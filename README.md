@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Tayyab Tariq</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently learning on Flutter
 - 📫 How to reach me: tayyabtariq838@gmail.com
   
 ### Connect with me:
