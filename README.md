@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Tayyab Tariq</h1>
+ <h1 align="center">Hi, I'm Tayyab Tariq</h1>
 
 - 🔭 I’m currently learning Flutter
 - 📫 How to reach me: tayyabtariq838@gmail.com
